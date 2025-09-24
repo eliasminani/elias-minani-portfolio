@@ -7,7 +7,7 @@ Welcome to my professional IT portfolio! This website showcases my skills, servi
 ## 🌐 Live Website
 
 [View Live Site](#)  
-*(Replace `#` with your deployed URL on GitHub Pages, Netlify, or Vercel)*
+
 
 ---
 
